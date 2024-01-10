@@ -25,7 +25,7 @@ var jackpotInventory = {};
 var inventoryMax = 50;
 var inventoryCurrent = 0;
 
-var keyPrice = 2.50;
+var keyPrice = 0;
 
 var caseDiscount = 0;
 var keyDiscount = 0;
@@ -224,7 +224,7 @@ var cases = {
       },
       weap2: {
         name: "Negev | Terrain",
-        price: 0.10,
+        price: 999999999.10,
         img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3fzhF6cqJgJWZhsjgNqnDl2Jf18l4jeHVyoD0mlOx5Uo_ZTr1I47HclM4MwvZ_ljtwejnjcC_6Zyan3Fq6XEl5irdzhGz0E1SLrs4EJsmc8Q"
       },
       weap3: {
