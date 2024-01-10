@@ -3,16 +3,16 @@ const subtitles = [
     "welcome to hell",
     "stop reading start playing",
     "shuttle.rip/xd",
-    "made by dach",
+    "made by devin",
     "github.com/d3ch",
     "thx for visiting!",
     "stop touching me please",
     "over 260+ games and your reading a subtitle rn",
     "chinese song goes hard",
-    "youtube.com/dachxd",
+    "big l",
     "i did not spend time doing this. you did",
     "enjoy ur stay thx",
-    "github.com/d3ch/hell star it pls tysm",
+    "github.com/ry5ee/hell-1 star it pls tysm",
     "someone out there cares for you. ",
     "hell (the game site) is cool",
     "play then work",
@@ -22,7 +22,7 @@ const subtitles = [
     "this is randomized",
     "this hits dif",
     "no im not adding roblox.",
-    "did you pray today?",
+    "did you pray today? bitch. ",
 ];
 
 function xd() {
